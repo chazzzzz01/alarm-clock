@@ -17,6 +17,11 @@ app.add_middleware(
 class AlarmRequest(BaseModel):
     text: str
 
+# ✅ Root route to fix 404 error on GET /
+@app.get("/")
+def read_root():
+    return {"message": "AI Alarm Clock API is running."}
+
 @app.post("/set-alarm")
 async def set_alarm(request: AlarmRequest):
     try:
