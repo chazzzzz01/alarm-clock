@@ -3,8 +3,8 @@
 A smart AI-powered alarm clock with a clean **glassmorphic UI**. Built using **Next.js**, **FastAPI**, and **Tailwind CSS**. Users can set alarms using natural language like:
 
 > "Set alarm to drink water every 30 minutes"  
-> "Remind me to stand up in 10 minutes"  
-> "Wake me up tomorrow at 7am"
+ 
+
 
 ---
 
