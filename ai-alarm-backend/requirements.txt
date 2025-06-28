@@ -1,13 +1,5 @@
-
-# fastapi
-# uvicorn
-# python-dotenv
-# apscheduler
-# openai
-
 fastapi
 uvicorn
-openai
 python-dotenv
 apscheduler
 dateparser  
