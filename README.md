@@ -24,7 +24,7 @@ A smart AI-powered alarm clock with a clean **glassmorphic UI**. Built using **N
 
 | Layer      | Tool/Library               |
 |------------|----------------------------|
-| Frontend   | Next.js, React, Tailwind CSS |
+| Frontend   | Next.js, Tailwind CSS |
 | Backend    | FastAPI, Uvicorn, Python |
 | Parsing    | `dateparser`, Regex        |
 | Scheduling | `apscheduler`              |
